@@ -1,7 +1,7 @@
 # FEGAN
 FEGAN(Feature Enhanced GAN-based Super Resolution for Thermal Image)
 
-The code was only tested on a single NVIDIA RTX A5000 graphics processing unit, Ubuntu 18.04 operating system, TensorFlow-GPU version 2.10.0 
+The code was tested on NVIDIA RTX A5000 graphics processing unit, Ubuntu 18.04 operating system, TensorFlow-GPU version 2.10.0 
 
 Trained utilizing thermal images sourced from the Teledyne FLIR ADAS dataset.
 
