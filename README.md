@@ -21,6 +21,7 @@ For this study, both the ground truth thermal images and the training and testin
 L. Zhu, R. Wu, B. -G. Lee, L. Nkenyereye, W. -Y. Chung and G. Xu, "FEGAN: A Feature-Oriented Enhanced GAN for Enhancing Thermal Image Super-Resolution," in IEEE Signal Processing Letters, vol. 31, pp. 541-545, 2024, doi: 10.1109/LSP.2024.3356751.
 keywords: {Training;Feature extraction;Iron;Image reconstruction;Image edge detection;Imaging;Measurement;Generative adversarial network (GAN);super-resolution;feature enhancement;thermal imaging},
 
+```
 @ARTICLE{10411026,
   author={Zhu, Linzhen and Wu, Renjie and Lee, Boon-Giin and Nkenyereye, Lionel and Chung, Wan-Young and Xu, Gen},
   journal={IEEE Signal Processing Letters}, 
@@ -31,3 +32,4 @@ keywords: {Training;Feature extraction;Iron;Image reconstruction;Image edge dete
   pages={541-545},
   keywords={Training;Feature extraction;Iron;Image reconstruction;Image edge detection;Imaging;Measurement;Generative adversarial network (GAN);super-resolution;feature enhancement;thermal imaging},
   doi={10.1109/LSP.2024.3356751}}
+```
