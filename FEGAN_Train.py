@@ -87,7 +87,7 @@ from keras import backend as K
 
 # Configure GPU and optimizer settings
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 keras.optimizers.Adam(lr=params['learning_rate'], 
                      beta_1=params['beta_1'], 
                      beta_2=params['beta_2'], 
